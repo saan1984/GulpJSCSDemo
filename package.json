@@ -1,0 +1,9 @@
+{
+  "name": "gulp-jscs-demo",
+  "version": "1.0.0",
+  "description": "JSCS JavaScript Style Linter",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jscs": "^3.0.1"
+  }
+}
